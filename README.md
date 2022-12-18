@@ -1,4 +1,8 @@
-# OOP_Lab4
+# Vacation Park Management Program
+
+This is a program written in C++ to manage a Vacation Park. UML diagrams are included also.
+
+Disclaimer: This project was written for Linux and MacOS. It was created using XCode and the project is included. It is not intended to work on Windows, and probably will not.
 
 To run the project, first you have to generate all the necessary "make" files by using CMake. From the root directory of this project run:
 ```
